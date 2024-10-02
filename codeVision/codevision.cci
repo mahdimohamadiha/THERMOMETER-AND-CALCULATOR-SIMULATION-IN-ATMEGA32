@@ -1,0 +1,13 @@
+VERSION:3 SOURCE_TIMESTAMP:56A19BBB
+NODE:I LEVEL:0 LINE:24 "C:\cvavr\inc\mega32.h"
+NODE:I LEVEL:0 LINE:26 "C:\cvavr\inc\delay.h"
+NODE:I LEVEL:0 LINE:28 "C:\cvavr\inc\string.h"
+NODE:I LEVEL:0 LINE:30 "C:\cvavr\inc\stdio.h"
+NODE:I LEVEL:0 LINE:32 "C:\cvavr\inc\stdlib.h"
+NODE:I LEVEL:0 LINE:35 "C:\cvavr\inc\alcd.h"
+NODE:M LEVEL:0 LINE:40 "ADC_VREF_TYPE"
+NODE:F LEVEL:0 LINE:43 "read_adc(unsigned char adc_input)"
+NODE:F LEVEL:0 LINE:56 "TODelay(void)"
+NODE:F LEVEL:0 LINE:64 "TODelays(void)"
+NODE:F LEVEL:0 LINE:76 "floorSqrt(int x)"
+NODE:F LEVEL:0 LINE:96 "main(void)"
